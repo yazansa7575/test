@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <header>
-        <h1 className="header">new bruch </h1>
+        <h1 className="header">new bruchq </h1>
       </header>
       <footer>
         <h1>footer</h1>
